@@ -1,4 +1,4 @@
-# weather_forcast
+# weather forecast of cities around the world
 
 10 days weather forcast of all the cities
 
